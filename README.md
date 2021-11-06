@@ -1,3 +1,3 @@
 # Proba
 
-![ЖЦ Дефекта](https://github.com/SSH001/Proba/blob/main/defect_lifecycle.png)
+![ЖЦ Дефекта](https://gitlab.com/ssh004/software_testing/-/blob/main/defect_lifecycle.png)
